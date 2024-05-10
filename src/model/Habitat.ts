@@ -12,7 +12,7 @@ const database = new DatabaseModel().pool;
 export class Habitat {
 
     /**
-     * O nome do habitat.
+     * O nome do habitat
      */
     private nomeHabitat: string;
 
